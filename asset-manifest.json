@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/YouTube-Clone-using-Reactjs.git/static/css/main.12e7c9a1.css",
+    "main.js": "/YouTube-Clone-using-Reactjs.git/static/js/main.01b3644b.js",
+    "static/media/pic2.png": "/YouTube-Clone-using-Reactjs.git/static/media/pic2.7a78c98d06f5009d45b0.png",
+    "static/media/pic4.png": "/YouTube-Clone-using-Reactjs.git/static/media/pic4.a0b279eb19354a2695e4.png",
+    "static/media/pic3.png": "/YouTube-Clone-using-Reactjs.git/static/media/pic3.355fd3b9c1615446d174.png",
+    "static/media/pic5.png": "/YouTube-Clone-using-Reactjs.git/static/media/pic5.06cc351b1a921173fcd6.png",
+    "static/media/pic6.png": "/YouTube-Clone-using-Reactjs.git/static/media/pic6.ad60eca7c8fbd08b34ab.png",
+    "static/media/pic1.png": "/YouTube-Clone-using-Reactjs.git/static/media/pic1.dac54c8295f59a8cb201.png",
+    "index.html": "/YouTube-Clone-using-Reactjs.git/index.html",
+    "main.12e7c9a1.css.map": "/YouTube-Clone-using-Reactjs.git/static/css/main.12e7c9a1.css.map",
+    "main.01b3644b.js.map": "/YouTube-Clone-using-Reactjs.git/static/js/main.01b3644b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e7c9a1.css",
+    "static/js/main.01b3644b.js"
+  ]
+}
